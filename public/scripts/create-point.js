@@ -1,7 +1,6 @@
+//função que popula os estados no campo select do formulario
 function populateUFs(){
-    const ufSelect = document.querySelector("select[name=uf")
-
-    /*disponível em ibge api */
+    const ufSelect = document.querySelector("select[name=uf") 
 
     fetch("https://servicodados.ibge.gov.br/api/v1/localidades/estados")
     .then(res => res.json())
@@ -9,11 +8,12 @@ function populateUFs(){
         for(state of states){
             ufSelect.innerHTML += `<option value="${state.id}">${state.nome}</option>`
         }
-    })
+    }) 
 }
 
 populateUFs();
 
+//função que popula as cidades no campo select do formulario
 function getCities(event){
     const citySelect = document.querySelector("select[name=city")
     const stateInput = document.querySelector("input[name=state")
@@ -40,6 +40,7 @@ function getCities(event){
     })
 }
 
+// a cada mudança no select de estados, executa a função getCities
 document.querySelector("select[name=uf").addEventListener("change",getCities)
 
 // itens de coleta

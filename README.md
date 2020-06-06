@@ -20,6 +20,9 @@ coletas de materiais especificos para reciclagem.
 <h1 align="center">
     <img alt="Example" title="Example" src="markdown/web.png" width="500px" />
 </h1>
+<h1 align="center">
+    <img alt="Example" title="Example" src="markdown/web.gif" width="500px" />
+</h1>
 
 ## 💻 Tecnologias
 
