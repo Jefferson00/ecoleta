@@ -2,11 +2,16 @@
   <img src="markdown/nlw.png">
 </p>
 
-# "O NLW é uma experiência online com muito conteúdo prático, desafios e hacks que vão te ajudar avançar para o próximo nível."
+<h2 align="center"> 
+  "O NextLevelWeek é uma experiência online com muito conteúdo prático, desafios e hacks que vão te ajudar avançar para o próximo nível."
+</h2>
 
-## Projeto realizado com o intuito de por em prática conhecimento para o desenvolvimento web full stack
+<h5 align="center"> 
+ Projeto realizado com o intuito de por em prática conhecimento para o desenvolvimento web full stack
+</h5>
 
 <p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-brightgreen">
   <a href="https://www.linkedin.com/in/jefferson-c-silva">
     <img alt="Made by Jefferson" src="https://img.shields.io/badge/made%20by-Jefferson-blue">
   </a>
@@ -23,12 +28,12 @@ coletas de materiais especificos para reciclagem.
 
 ## 💻 Tecnologias
 
-- [HTML]
-- [CSS]
-- [Javascript]
-- [Node.js]
-- [Express]
-- [Sqlite3]
+- HTML
+- CSS
+- Javascript
+- Node.js
+- Express
+- Sqlite3
 
 ## How to Install
 
