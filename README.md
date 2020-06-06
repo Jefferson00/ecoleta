@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="markdown/images/nlw.png">
+  <img src="markdown/nlw.png">
 </p>
 
-#"O NLW é uma experiência online com muito conteúdo prático, desafios e hacks que vão te ajudar avançar para o próximo nível."
+# "O NLW é uma experiência online com muito conteúdo prático, desafios e hacks que vão te ajudar avançar para o próximo nível."
 
 ## Projeto realizado com o intuito de por em prática conhecimento para o desenvolvimento web full stack
 
@@ -18,7 +18,7 @@ Ecoleta é um projeto idealiazado pela rocktseat, tem como objetivo conectar pes
 coletas de materiais especificos para reciclagem.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="markdown/images/web.png" width="500px" />
+    <img alt="Example" title="Example" src="markdown/web.png" width="500px" />
 </h1>
 
 ## 💻 Tecnologias
