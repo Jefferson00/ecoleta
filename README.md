@@ -19,7 +19,7 @@
 
 ## 💻 Projeto
 
-Ecoleta é um projeto idealiazado pela rocktseat, tem como objetivo conectar pessoas com empresas que realizam
+Ecoleta é um projeto idealiazado pela <a href="https://github.com/Rocketseat">rocktseat</a>, tem como objetivo conectar pessoas com empresas que realizam
 coletas de materiais especificos para reciclagem.
 
 <h1 align="center">
@@ -33,6 +33,7 @@ coletas de materiais especificos para reciclagem.
 - Javascript
 - Node.js
 - Express
+- Nunjucks
 - Sqlite3
 
 ## How to Install
